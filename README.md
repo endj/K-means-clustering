@@ -7,3 +7,8 @@ K-means clustering algorithm vizualized.
 ```sh
 open index.html
 ```
+
+
+## Demo
+
+https://endj.github.io/K-means-clustering/
